@@ -1,44 +1,108 @@
-![img](https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966)
 
- <h1 align="center">Hi 👋, I'm Nikhil M</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-![img](https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Naidu9051&label=Profile%20views&color=0e75b6&style=flat" alt="Naidu9051" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Naidu9051" alt="Naidu9051" /></a> </p>
-
-- 🔭 I’m currently working on _Masai_
-
-- 🌱 I’m currently learning Redux, React, JavaScript_
-
-- 💬 Ask me about _HTML,CSS,JAVASCRIPT,DSA_
-
-<h3 align="left">Connect with me:</h3>
-<h3 align="left">Gmail- nikhiljetly703@gmail.com </h3>
-<h3 align="left">LinkedIn- </h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naidu9051&show_icons=true&locale=en&layout=compact" alt="Naidu9051" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naidu9051&show_icons=true&locale=en" alt="Naidu9051" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naidu9051&" alt="Naidu9051" /></p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Naidu9051)
-
-<div>
-<img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/5b433f4e157d144d10438335260d82ee341f44e1/resources/img/grid-snake.svg" alt="img-snake /> 
-</div>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1 align="center">Hi 👋, I'm Nikhil M</h1>
+<h3 align="center">A Passionate Full Stack Developer </h3>
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Nikhil M; I am a Full-Stack%20Web%20Developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
+
+<img width=100% height=400px src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="Error" />
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NikhilM&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil M" /> </p>
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+
+- 🔭 I’m currently pursuing Full Stack Web Development
+
+- 🌱 I’m currently learning React
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/180XuxY5y14_Z_ETeNT5sNHbdIcfFC9xQ/view?usp=share_link)
+
+
+
+
+
+- 💬 Ask me about HTML, CSS, JavaScript, React & DSA
+
+- 📫 How to reach me nikhiljetly703@gmail.com
+
+
+
+<hr />
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/Naidu9051" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="linkedin.com/in/nikhil-murthy-71708313a"   target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="mailto:nikhiljetly703@gmial.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+</div>
+
+<hr />
+
+## 🚀 Languages and Tools:
+<div align="center">
+ 
+ <div align="center"><h3 align="center">Frontend</h3>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
+<img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
+<img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="reactjs" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"  align="center" alt="redux" />
+<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  align="center" alt="material-ui"/>
+<img src = "https://img.shields.io/badge/chakra ui-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" align="center" alt="chakra-ui"/>
+</div>
+  <div align="center"><h3 align="center">Backend</h3> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+
+ </div>
+  <div align="center"><h3 align="center">Tools</h3> 
+   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
+   <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white"  align="center" alt="git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
+  <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
+   <br/>
+ </div>
+</div>
+
+<hr />
+
+## 📊 My Github Stats
+   <br/>   
+    <p align="center">      
+  <a href="https://github.com/Naidu9051/github-readme-stats"><img alt="Nikhil M Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilM&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>      
+     <br/>
+   <p align="center">
+    <a href="https://github.com/Naidu9051/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nikhil M streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Naidu9051&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>                                                                                                                                              
+
+  <br/>
+  <br/>
+     <p align="center">                                                                                                 
+    <a href="https://github.com/Naidu9051/github-readme-stats"><img alt="Nikhil M Github Stats" src="https://github-readme-stats.vercel.app/api?username=Naidu9051&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="NikhilM" /></a>
+    </p>                                                                 
+<br/>
+<br/>
+
+<br/>
+
+<h3 text-align=center >Stay Happy, Stay Motivated  <img height=50px src="https://i.pinimg.com/originals/69/52/88/69528895726f32fc384babcde61a535a.gif" alt=""></h3>
+
+<img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
 

@@ -82,7 +82,7 @@
 ## 📊 My Github Stats
    <br/>   
     <p align="center">      
-  <a href="https://github.com/Naidu9051/github-readme-stats"><img alt="Nikhil M Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilM&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Naidu9051/github-readme-stats"><img alt="Nikhil M Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naidu9051&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
       </p>      
      <br/>
    <p align="center">
